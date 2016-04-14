@@ -55,7 +55,6 @@
         { "name": "RealChute" },
         { "name": "RealPlume-StockConfigs" },
         { "name": "RemoteTech" },
-	{ "name": "RemoteTech-ProbeControlEnabler" },
 	{ "name": "SETI-BalanceMod" },
 	{ "name": "SETI-RemoteTech" },
 	{ "name": "ShipManifest" },

@@ -60,9 +60,9 @@
 	{ "name": "ShipManifest" },
 	{ "name": "StageRecovery" },
 	{ "name": "TacFuelBalancer" },
+	{ "name": "TACLS" },
 	{ "name": "TweakableEverything" },
 	{ "name": "TweakScale" },
-	{ "name": "USI-LS" }
     ],
     "install" : [
         { 

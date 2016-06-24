@@ -70,8 +70,18 @@
     ],
     "install" : [
         { 
-          "file"       : "UnmannedBeforeManned",
-          "install_to" : "GameData"
-        }
+	    "find"       : "UnmannedBeforeManned",
+            "install_to" : "GameData"
+        },
+        {
+            "find"       : "VAB",
+            "install_to" : "Ships",
+            "comment"    : "VAB craft files"
+        },
+        {
+            "find"       : "SPH",
+            "install_to" : "Ships",
+            "comment"    : "SPH craft files"
+}
     ]
 }

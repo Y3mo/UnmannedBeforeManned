@@ -4,6 +4,7 @@
     "$vref" 	    : "#/ckan/ksp-avc",
     "identifier"    : "UnmannedBeforeManned",
     "x_netkan_license_ok" : true,
+    "ksp_version_max": "1.99.99",
     "depends" : [
         { "name": "KSP-AVC" },
         { "name": "ModuleManager" }
